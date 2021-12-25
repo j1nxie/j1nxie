@@ -6,7 +6,8 @@
 - i also self-learn japanese during my free time as well! 宜しくお願いします！
 
 ### projects i am working on
-- [nhdl](https://github.com/j1nxie/nhdl): my first real-world project - a doujinshi downloader client built in rust!
+- [nhdl](https://github.com/j1nxie/nhdl): a doujinshi downloader client built in rust!
+- [Aqukinn](https://github.com/j1nxie/Aqukinn): a discord bot using serenity-rs.
 
 <!---
 j1nxie/j1nxie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
