@@ -8,6 +8,7 @@
 ### projects i am working on
 - [nhdl](https://github.com/j1nxie/nhdl): a doujinshi downloader client built in rust!
 - [Aqukinn](https://github.com/j1nxie/Aqukinn): a discord bot using serenity-rs.
+- [sayaka-rs](https://github.com/j1nxie/sayaka-rs): a NES emulator, based on [Writing NES Emulator in Rust](https://bugzmanov.github.io/nes_ebook/index.html).
 
 <!---
 j1nxie/j1nxie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
