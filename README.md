@@ -11,7 +11,7 @@
 
 ### most used languages
 
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=j1nxie&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### projects i am working on - sorted by priority
 - [marisa-rs](https://github.com/j1nxie/marisa-rs): a CHIP-8 emulator side project.
