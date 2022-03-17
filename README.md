@@ -5,6 +5,8 @@
 - i enjoy playing [ffxiv](https://www.finalfantasyxiv.com/) in my free time, along with other games.
 - i also self-learn japanese during my free time as well! 宜しくお願いします！
 
+[![j1nxie's github stats](https://github-readme-stats.vercel.app/api?username=j1nxie)](https://github.com/anuraghazra/github-readme-stats)
+
 ### projects i am working on - sorted by priority
 - [marisa-rs](https://github.com/j1nxie/marisa-rs): a CHIP-8 emulator side project.
 - [sayaka-rs](https://github.com/j1nxie/sayaka-rs): a NES emulator, based on [Writing NES Emulator in Rust](https://bugzmanov.github.io/nes_ebook/index.html).
