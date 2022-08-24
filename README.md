@@ -1,11 +1,8 @@
 ### hi, i'm j1nxie!
 
-- ict major in university.
-- self-learning comsci student at [ossu](https://github.com/ossu/computer-science).
+- university student majoring in IT.
 - lazy and uncreative wannabe developer.
 - anime-manga, vtuber and gaming enthusiast.
-- i enjoy playing [ffxiv](https://www.finalfantasyxiv.com/) in my free time, along with other games.
-- i also self-learn japanese during my free time as well! 宜しくお願いします！
 
 ### my github stats
 
