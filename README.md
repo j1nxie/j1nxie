@@ -9,6 +9,10 @@ i play [osu!](https://osu.ppy.sh) and various rhythm games in my free time.
 
 this is a list of my own projects that i am currently maintaining.
 
+### [Aqukinn](https://github.com/j1nxie/Aqukinn)
+
+a Discord bot powered by [`twilight`](https://github.com/twilight-rs/twilight) for my own server.
+
 ### [marisa-rs](https://github.com/j1nxie/marisa-rs)
 
 a CHIP-8 emulator, with its interface powered by [`egui`](https://github.com/emilk/egui).
