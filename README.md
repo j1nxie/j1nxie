@@ -1,6 +1,7 @@
 ## hi, i'm j1nxie!
 
 i'm an university student, majoring in Internet Communications and Technology. in my free time, i code to create small projects and cool things.
+i like fullstack, systems and emulation, but i'm down to learning just about anything.
 
 i enjoy japanese culture, including, but not limited to: anime, manga, vtubers and rhythm games.
 i play [osu!](https://osu.ppy.sh) and various rhythm games in my free time.
