@@ -1,7 +1,7 @@
 https://j1nxie.github.io  
 https://twitter.com/_lumi9
 
-burnt out wannabe programmer.
+i program whatever thing i find interesting at the current moment.
 
 hit me up with job offers over at my email.
 
