@@ -1,5 +1,6 @@
 https://j1nxie.github.io  
 https://twitter.com/_lumi9
+https://anime.kona.moe/@kotonya
 
 i program whatever thing i find interesting at the current moment.
 
