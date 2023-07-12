@@ -4,6 +4,8 @@ https://anime.kona.moe/@kotonya
 
 i program whatever thing i find interesting at the current moment.
 
+i also probably write a ridiculous amount of discord bots.
+
 hit me up with job offers over at my email.
 
 ![](https://raw.githubusercontent.com/j1nxie/github-stats/master/generated/overview.svg#gh-dark-mode-only)
