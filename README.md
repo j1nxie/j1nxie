@@ -1,4 +1,4 @@
-https://j1nxie.github.io  
+https://rylie.moe  
 https://twitter.com/_lumi9  
 https://misskey.io/@kotonya
 
