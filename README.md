@@ -8,6 +8,8 @@ i also probably write a ridiculous amount of discord bots.
 
 hit me up with job offers over at my email.
 
+if you're reading this, i think you're cool.
+
 ![](https://raw.githubusercontent.com/j1nxie/github-stats/master/generated/overview.svg)
 ![]()
 ![](https://raw.githubusercontent.com/j1nxie/github-stats/master/generated/languages.svg)
