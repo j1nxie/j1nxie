@@ -1,5 +1,5 @@
-https://rylie.moe\
-https://twitter.com/_lumi9\
+https://rylie.moe  
+https://twitter.com/_lumi9  
 https://misskey.io/@kotonya
 
 ## about me
