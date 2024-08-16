@@ -14,7 +14,7 @@ if you're reading this, i think you're cool.
 
 ## projects
 
-i am cooking something in secret, so right now i don't have too much to showcase. but nonetheless, these are some of the projects i enjoy spending time working on.
+most of my projects are developed open-source here, but i am cooking something in secret, so right now i don't have too much to showcase. but nonetheless, these are some of the projects i enjoy spending time working on.
 
 ### [closure-api](https://github.com/j1nxie/closure-api)
 
