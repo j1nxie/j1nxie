@@ -1,10 +1,10 @@
-https://rylie.moe  
-https://twitter.com/_lumi9  
+https://rylie.moe \
+https://twitter.com/_lumi9 \
 https://misskey.io/@kotonya
 
 ## about me
 
-(mainly) hobbyist programmer on the internet, fighting game / rhythm game / shooters enthusiast, but i play just about everything when it comes to video games.
+(mainly) hobbyist programmer on the internet, learning how to solve CTF challenges on the side. fighting game / rhythm game / shooters enthusiast, but i play just about everything when it comes to video games.
 
 my usual projects are written in Rust, but i can work with various languages, including but not limited to TypeScript, Python, C# and C/C++.
 
