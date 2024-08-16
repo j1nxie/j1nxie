@@ -10,6 +10,8 @@ my usual projects are written in Rust, but i can work with various languages, in
 
 i am always open for job offers - hit me up at my email on the side, or `rylie` at `rylie` dot `moe`.
 
+want to know about my setup? read on [here](setup.md).
+
 if you're reading this, i think you're cool.
 
 ## projects
