@@ -20,7 +20,7 @@ Framework Laptop 13, Intel 12th gen.
 | **graphics** | Intel Iris Xe Graphics      |
 | **storage**  | WD SN770 1TB NVMe           |
 
-## `misora` - gaming PC (Windows 11)
+## `misora` - gaming PC (Windows 10)
 
 ![Misora](images/misora.jpg)
 
