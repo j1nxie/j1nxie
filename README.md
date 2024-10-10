@@ -16,15 +16,19 @@ if you're reading this, i think you're cool.
 
 ## projects
 
-most of my projects are developed open-source here, but i am cooking something in secret, so right now i don't have too much to showcase. but nonetheless, these are some of the projects i enjoy spending time working on.
+most of my projects are developed open-source here. i am cooking something in secret, so right now i don't have too much to showcase. but nonetheless, these are some of the projects i enjoy spending time working on.
 
 ### [closure-api](https://github.com/j1nxie/closure-api)
 
-an API to fetch currently running events for the mobile tower defense gacha game, [Arknights](https://arknights.global). utilizes HTML scraping to parse data off of [gamepress.gg](https://gamepress.gg), built using TypeScript.
+an API to fetch currently running events for the mobile tower defense gacha game, [Arknights](https://arknights.global). utilizes HTML scraping to parse data off of [gamepress.gg](https://gamepress.gg), built using TypeScript and [Fastify](https://fastify.dev).
+
+### [mikisayaka](https://github.com/j1nxie/mikisayaka)
+
+a small Discord bot meant for housekeeping - self-assignable roles, tracking manga updates, etc., built using Rust and the [poise](https://github.com/serenity-rs/poise) framework.
 
 ### [animedoro](https://github.com/j1nxie/animedoro)
 
-a pomodoro clock, built on top of [raylib](https://github.com/raysan5/raylib). its defaults adhere to the animedoro method - 45 minutes work cycles, 25 minutes break for an anime episode. it is written in pure C, with a Zig build script as its build system.
+a pomodoro clock, built using [raylib](https://github.com/raysan5/raylib). its defaults adhere to the animedoro method - 45 minutes work cycles, 25 minutes break for an anime episode. it is written in pure C, with a Zig build script as its build system.
 
 ## collaborative projects
 
