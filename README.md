@@ -6,7 +6,7 @@ https://misskey.io/@kotonya
 
 (mainly) hobbyist programmer on the internet, learning how to solve CTF challenges on the side. fighting game / rhythm game / shooters enthusiast, but i play just about everything when it comes to video games.
 
-my usual projects are written in Rust, but i can work with various languages, including but not limited to TypeScript, Python, C# and C/C++.
+my usual projects are written in Rust, but i can work with various languages, including but not limited to TypeScript, Python, and C#.
 
 i am always open for job offers - hit me up at my email on the side, or `rylie` at `rylie` dot `moe`.
 
@@ -32,7 +32,7 @@ a pomodoro clock, built using [raylib](https://github.com/raysan5/raylib). its d
 
 ## collaborative projects
 
-### [Tachi](https://github.com/zkldi/Tachi)
+### [Tachi](https://github.com/zkrising/Tachi)
 
 a modular rhythm game score tracker, with support for various titles and networks. i implemented support for maimai DX, wrote the [import script](https://github.com/j1nxie/kt-maimaidx-site-importer) for official network players, on top of contributing database seeds for the game (along with [beerpsi](https://github.com/beer-psi)). i also worked on Arcaea support and contributed the initial database seeds for it, which now lives on [beerpsi's fork](https://github.com/beer-psi/Tachi).
 
