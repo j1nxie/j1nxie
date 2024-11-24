@@ -20,7 +20,7 @@ most of my projects are developed open-source here. i am cooking something in se
 
 ### [closure-api](https://github.com/j1nxie/closure-api)
 
-an API to fetch currently running events for the mobile tower defense gacha game, [Arknights](https://arknights.global). utilizes HTML scraping to parse data off of [gamepress.gg](https://gamepress.gg), built using TypeScript and [Fastify](https://fastify.dev).
+an API to fetch currently running events for the mobile tower defense gacha game, [Arknights](https://arknights.global). utilizes HTML scraping to parse data off of [Arknights Terra Wiki](https://arknights.wiki.gg), written in [Go](https://go.dev) using the [chi](https://github.com/go-chi/chi) router.
 
 ### [mikisayaka](https://github.com/j1nxie/mikisayaka)
 
